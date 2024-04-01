@@ -1,0 +1,4 @@
+x=10
+y=80
+print(x)
+print(y)
